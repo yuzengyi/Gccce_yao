@@ -96,3 +96,15 @@ PISA数据集在数学领域中考察了学生的态度和情感方面的数据�
 注: GFI为拟合优度指数，AGFI为调整的拟合优度指数，RMSEA为近似误差均方根，NFI为标准拟合指数，IFI为增值拟合指数，TLI为非规范拟合指数，CFI为比较拟合指数，PGFI为精简拟合指数，PNFI为精简规范拟合指数（方杰,张敏强,邱皓政.，2012）
 
 实际的拟合度指标均满足条件。而CMIN/DF（卡方自由度之比）为21.723，不满足小于3的理想值，原因是本次研究样本数量较大，大样本难以满足卡方值检验，因此主要参考其他指标来判断模型的优劣。**因此，可以认为模型的适配度和拟合度都表现出较好的水平。**
+
+### 参考文献
+
+[1] 《深化新时代教育评价改革总体方案》印发 [EB/OL]. (2020-10-13) [2023-03-23]. https://www.chinacourt.org/article/detail/2020/10/id/5523152.shtml.  
+[2] Richardson, Frank C.; Suinn, Richard M. The Mathematics Anxiety Rating Scale: Psychometric data. [J]. Journal of Counseling Psychology, 1972(6).  
+[3] 陈英和, 耿柳娜. 数学焦虑研究的认知取向 [J]. 心理科学, 2002(06): 653-655+648-764. DOI: 10.16719/j.cnki.1671-6981.2002.06.004.  
+[4] BANDURA A. Self-efficacy: toward a unifying theory of behavioral change [J]. Psychological Review, 1977, 84(2): 191-215.  
+[5] USHER E L, PAJARES F. Sources of self-efficacy in mathematics: A validation study [J]. Contemporary Educational Psychology, 2009, 34(1): 89-101.  
+[7] 崔志翔, 徐斌艳. 数智时代国际基础学科计算思维教育发展的策略、方向与启示——《PISA 2022数学框架》之思考 [J]. 远程教育杂志, 2022, 40(06): 13-21. DOI: 10.15881/j.cnki.cn33-1304/g4.2022.06.001.  
+[8] 方杰, 张敏强, 邱皓政. 中介效应的检验方法和效果量测量: 回顾与展望 [J]. 心理发展与教育, 2012, 28(1): 105-111.  
+[9] HAYES A F. Beyond Baron and Kenny: Statistical Mediation Analysis in the New Millennium [J]. Communication Monographs, 2009, 76(4): 408-420.  
+[10] Usher E L, Pajares F. Sources of SelfEfficacy in School: Critical Review of the Literature and Future Directions [J]. Review of Educational Research, 2008, 78(4): 751-796.
