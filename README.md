@@ -86,6 +86,9 @@ PISA数据集在数学领域中考察了学生的态度和情感方面的数据�
 ## 3.拟合度分析
 分析模型各拟合度指标是否符合理想值。RMSEA需小于0.08，GFI、AGFI、NFI、IFI、TLI、CFI需大于0.9，PGFI、PNFI需大于0.5。
 
+![中介检验1](https://github.com/yuzengyi/Gccce_yao/blob/main/Image/%E4%B8%AD%E4%BB%8B%E6%A3%80%E9%AA%8C1.png)
+
+
 ### 表1 中介模型拟合指标
 
 | 性别 | GFI  | AGFI | RMSEA | NFI  | TLI  | CFI  | IFI  | PGFI | PNFI |
