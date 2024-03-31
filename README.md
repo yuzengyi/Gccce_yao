@@ -104,7 +104,7 @@ PISA数据集在数学领域中考察了学生的态度和情感方面的数据�
 [3] 陈英和, 耿柳娜. 数学焦虑研究的认知取向 [J]. 心理科学, 2002(06): 653-655+648-764. DOI: 10.16719/j.cnki.1671-6981.2002.06.004.  
 [4] BANDURA A. Self-efficacy: toward a unifying theory of behavioral change [J]. Psychological Review, 1977, 84(2): 191-215.  
 [5] USHER E L, PAJARES F. Sources of self-efficacy in mathematics: A validation study [J]. Contemporary Educational Psychology, 2009, 34(1): 89-101.  
-[7] 崔志翔, 徐斌艳. 数智时代国际基础学科计算思维教育发展的策略、方向与启示——《PISA 2022数学框架》之思考 [J]. 远程教育杂志, 2022, 40(06): 13-21. DOI: 10.15881/j.cnki.cn33-1304/g4.2022.06.001.  
-[8] 方杰, 张敏强, 邱皓政. 中介效应的检验方法和效果量测量: 回顾与展望 [J]. 心理发展与教育, 2012, 28(1): 105-111.  
-[9] HAYES A F. Beyond Baron and Kenny: Statistical Mediation Analysis in the New Millennium [J]. Communication Monographs, 2009, 76(4): 408-420.  
-[10] Usher E L, Pajares F. Sources of SelfEfficacy in School: Critical Review of the Literature and Future Directions [J]. Review of Educational Research, 2008, 78(4): 751-796.
+[6] 崔志翔, 徐斌艳. 数智时代国际基础学科计算思维教育发展的策略、方向与启示——《PISA 2022数学框架》之思考 [J]. 远程教育杂志, 2022, 40(06): 13-21. DOI: 10.15881/j.cnki.cn33-1304/g4.2022.06.001.  
+[7] 方杰, 张敏强, 邱皓政. 中介效应的检验方法和效果量测量: 回顾与展望 [J]. 心理发展与教育, 2012, 28(1): 105-111.  
+[8] HAYES A F. Beyond Baron and Kenny: Statistical Mediation Analysis in the New Millennium [J]. Communication Monographs, 2009, 76(4): 408-420.  
+[9] Usher E L, Pajares F. Sources of SelfEfficacy in School: Critical Review of the Literature and Future Directions [J]. Review of Educational Research, 2008, 78(4): 751-796.
